@@ -1,0 +1,120 @@
+
+.image1{
+    border-radius: 100%;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    
+}
+.text1{
+    background-color:black;
+}
+.text2{
+    background-color:black;
+}
+.text3{
+    background-color:pink;
+}
+.text4{
+    text-align: center;
+    color:pink
+}
+#mid{
+  background-color: black;
+}
+.image2{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+
+}
+.image3{
+    width: 400px;    
+}
+.text5{
+    display: inline-block;
+    color:pink;
+    font-family:monospace;
+}
+a:link,a:visited{
+    text-decoration: none;
+    color:black
+}
+#start{
+  font-family:cursive;
+}
+  
+  #logo a {
+    color: pink ;
+    font-weight: 700;
+    font-size: 220%;
+    font-family: "Poppins", sans-serif;
+  }
+  
+  #nav-item a {
+     color:pink;
+    font-weight: 500;
+    font-size: 150%;
+    padding-left: 5vw;
+  }
+  #nav-item a:hover {
+    
+    font-size: 160%;
+    transition: 0.5s;
+  }
+  #text8 a{
+    color:pink ;
+    font-weight: 500;
+    font-size: 150%;
+    padding-left: 5vw;
+  }
+  #text8 a:hover{
+    color: black;
+    font-size: 160%;
+    transition: 0.5s;
+  }
+  #dropdown a{
+    color:pink
+  }
+  #dropdown a:hover{
+  color: black;
+  font-size: 160%;
+  transition: 0,5s;
+  }
+  .buttonn a:hover{
+    font-size: 160%;
+    transition: 0,5s;
+    color:pink   
+  }
+  #end{
+    background-color: pink;
+  }
+  .collapsible {
+    background-color:black;
+    color:pink;
+    cursor: pointer;
+    padding: 18px;
+    width: 10%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 20px;
+  }
+  .content {
+    padding: 0 18px;
+    display: none;
+    overflow: hidden;
+    background-color: pink;
+  }
+  hr.text7{
+    border: 2px solid black;
+    margin-right:550px;
+    margin-left: 550px;
+  }
+  #text6:hover{
+    color:pink
+  }
+  
+
+
+
